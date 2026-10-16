@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" role="img" aria-label="Bannière Bauhaus : formes géométriques et le texte peakaboooo, design graphique">
+  <title>peakaboooo — design graphique</title>
+  <rect x="16" y="16" width="780" height="240" fill="#111111"/>
+  <rect x="4" y="4" width="780" height="240" fill="#F2EFE6" stroke="#111111" stroke-width="5"/>
+  <circle cx="650" cy="90" r="62" fill="#E63B2E" stroke="#111111" stroke-width="5"/>
+  <rect x="560" y="120" width="120" height="100" fill="#1F4FD8" stroke="#111111" stroke-width="5"/>
+  <polygon points="692,220 732,132 772,220" fill="#FFC20E" stroke="#111111" stroke-width="5" stroke-linejoin="bevel"/>
+  <text x="36" y="118" font-family="Arial Black, Helvetica, Arial, sans-serif" font-size="68" font-weight="900" fill="#111111" letter-spacing="-2">PEAKA</text>
+  <text x="36" y="184" font-family="Arial Black, Helvetica, Arial, sans-serif" font-size="68" font-weight="900" fill="#111111" letter-spacing="-2">BOOOO</text>
+  <rect x="36" y="198" width="260" height="10" fill="#E63B2E"/>
+  <text x="36" y="234" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#111111" letter-spacing="3">DESIGN GRAPHIQUE</text>
+</svg>
