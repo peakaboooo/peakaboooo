@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="peakaboooo, design graphique et web" width="100%">
+  <img src="assets/banner.svg" alt="peakaboooo, design graphique" width="100%">
 </p>
 
 <p align="center">
@@ -8,21 +8,28 @@
 
 ## ■ Qui je suis
 
-Étudiant en design graphique.  : je fais un peu d'HTML, CSS et JavaScript simple. J'aime créer des outils pour faciliter mon travail.
+Étudiant en design graphique : je fais un peu d'HTML, CSS et JavaScript simple. J'aime créer des outils pour faciliter mon travail.
 
-J'aime le **Bauhaus** et le **brutalisme** les design colorés et vivant mais aussi le sombre et le triste...
+J'aime le **Bauhaus** et le **brutalisme**, les designs colorés et vivants, mais aussi le sombre et le triste...
 
 ## ● Mes outils
 
+<p align="center"><b>WEB</b></p>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,ps,ai&theme=light&perline=6" alt="HTML, CSS, JavaScript, Figma, Photoshop, Illustrator">
-  </a>
-  <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge" alt="InDesign">
+  <img src="https://skillicons.dev/icons?i=html" width="64" alt="HTML">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="64" alt="CSS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="64" alt="JavaScript">
 </p>
 
-**Web** : HTML  CSS  JavaScript
-**Design** : Figma  Photoshop  Illustrator  InDesign
+<p align="center"><b>DESIGN</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" width="64" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ps" width="64" alt="Photoshop">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ai" width="64" alt="Illustrator">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/indesign.svg" width="64" alt="InDesign">
+</p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%">
@@ -30,10 +37,10 @@ J'aime le **Bauhaus** et le **brutalisme** les design colorés et vivant mais au
 
 ## ▲ Projet à voir
 
-**[DesignLab](https://peakaboooo.github.io/designlab/)** : des générateurs de visuels procéduraux dans le navigateur (motifs, textures, mosaïques, dégradés).  Export en PNG, JPEG ou SVG open source et gratuit.
+**[DesignLab](https://peakaboooo.github.io/designlab/)** : des générateurs de visuels procéduraux dans le navigateur (motifs, textures, mosaïques, dégradés). Export en PNG, JPEG ou SVG, open source et gratuit.
 
 <p align="center">
   <img src="assets/divider.svg" alt="" width="100%">
 </p>
 
-<sub>Sources icones : <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> (MIT) et <a href="https://shields.io">Shields.io</a>.</sub>
+<sub>Sources des icônes : <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a> (MIT). Les noms Figma, Photoshop, Illustrator et InDesign appartiennent à leurs propriétaires respectifs.</sub>
